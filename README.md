@@ -7,7 +7,7 @@
 ## Run
 
 ```Bash
-https://github.com/gabriel-del/tictactoe && cd tictactoe
+git clone https://github.com/gabriel-del/tictactoe && cd tictactoe
 yarn run dev
 ```
 
