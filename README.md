@@ -11,5 +11,3 @@ https://github.com/gabriel-del/tictactoe && cd tictactoe
 yarn run dev
 ```
 
-Repository Owner : ${{ env.REPOSITORY_OWNER }}
-Repository Full Name : ${{ env.REPOSITORY_FULL_NAME }}
